@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "AI will amplify the PRC's Gray Zone Activities in the Western Hemisphere"
+title: "I will amplify the PRC's Gray Zone Activities in the Western Hemisphere"
 date: 2023-05-08
 ---
-
-# **Briefing: AI will amplify the PRC's Gray Zone Activities in the Western Hemisphere**
 
 AI has the potential to significantly amplify the People's Republic of China (PRC)'s gray zone activities in the Western Hemisphere. 
 
