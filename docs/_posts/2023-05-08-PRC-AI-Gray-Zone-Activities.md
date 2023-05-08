@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I will amplify the PRC's Gray Zone Activities in the Western Hemisphere"
+title: "AI will amplify the PRC's Gray Zone Activities in the Western Hemisphere"
 date: 2023-05-08
 ---
 
