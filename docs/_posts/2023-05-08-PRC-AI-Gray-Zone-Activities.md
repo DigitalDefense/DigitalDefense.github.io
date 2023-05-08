@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Generative AI and the PRC's Gray Zone Activities in the Western Hemisphere"
+title: "Generative AI will amplify the PRC's Gray Zone Activities in the Western Hemisphere"
 date: 2023-05-08
 ---
 
-# **Briefing: Generative AI and the PRC's Gray Zone Activities in the Western Hemisphere**
+# **Briefing: Generative AI will amplify the PRC's Gray Zone Activities in the Western Hemisphere**
 
-Generative AI has the potential to significantly transform the People's Republic of China (PRC)'s gray zone activities in the Western Hemisphere. 
+Generative AI has the potential to significantly amplify the People's Republic of China (PRC)'s gray zone activities in the Western Hemisphere. 
 
 > Key areas of impact include disinformation campaigns, economic influence, surveillance, propaganda, and social engineering.
 
